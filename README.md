@@ -18,22 +18,22 @@ I was fascinated by computer science in my childhood and when I got introduced t
 
 ## :loop: Get in Loop
 
- - [Email me](mailto:keshavnrj@gmail.com){:target="_blank"}
- - [DM on Twitter](https://twitter.com/keshavmail68){:target="_blank"}
- - [Whatsapp](https://wa.me/917906565945?text=Hi%2C+reached+from+your+github+profile){:target="_blank"}
- - [Telegram](https://t.me/keshavmail68){:target="_blank"}
+ - [Email me](mailto:keshavnrj@gmail.com)
+ - [DM on Twitter](https://twitter.com/keshavmail68)
+ - [Whatsapp](https://wa.me/917906565945?text=Hi%2C+reached+from+your+github+profile)
+ - [Telegram](https://t.me/keshavmail68)
  
  ## :moneybag: Make me rich
  
- - [PayPal](https://paypal.me/keshavnrj){:target="_blank"}
- - [Support by purchasing licence for few of my paid Apps](https://snapcraft.io/search?q=keshavnrj){:target="_blank"}
+ - [PayPal](https://paypal.me/keshavnrj)
+ - [Support by purchasing licence for few of my paid Apps](https://snapcraft.io/search?q=keshavnrj)
  
  > Thanks, If you ever donated me. :smiley:
  
 ## :bar_chart: Some stats of my profile
 
-[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats){:target="_blank"}
+[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats){:target="_blank"}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keshavbhatt)
