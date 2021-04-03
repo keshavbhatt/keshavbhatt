@@ -172,13 +172,13 @@ g.typingUnderline rect {
     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
 
-<rect class="headerRect" width="70" height="10.3" rx="1" x="20" y="15.9"/>
+<rect class="headerRect" width="70" height="10.3" rx="1" x="20" y="13.9"/>
 
 <path id="nameTyping">
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="10.05s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Helvetica" font-size=".22em" fill="white"
+<text  font-family="Helvetica" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="1">
   <textPath xlink:href="#nameTyping" >
       KESHAV BHATT
