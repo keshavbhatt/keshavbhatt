@@ -16,7 +16,7 @@ I was fascinated by computer science in my childhood and when I got introduced t
 [Know further about me here](https://imakefoss.org/curators/keshavbhatt/)  
 </details>
 
-## Contact me
+## :mailbox:Contact me
 
  - [Email me](mailto:keshavnrj@gmail.com)
  - [DM on Twitter](https://twitter.com/keshavmail68)
