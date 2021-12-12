@@ -1,6 +1,6 @@
 <img src="images/svg/header_en.svg"></img>
 
- My name is Keshav Bhatt. I am a independent, Free, Open-source application developer from the northern region of India from state Uttarakhand.
+ My name is Keshav Bhatt. I am a independent, Free, Open-source application developer from the northern region of India.
 
 My main focus since I was introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade in the year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat.
 
@@ -9,9 +9,7 @@ My main focus since I was introduced to FOSS is on developing applications targe
   Interesting, show me more
 </summary>
 
-I completed my graduation in Biological Science (B.Sc) in the year 2015 and had a professional graduate degree in Education (B.Ed) in the year 2019. Currently, I am pursuing my post-graduation degree in Chemistry (M.Sc). I also have a foundation level diploma in Computer Applications ‘O’ Level by  [NIELIT](http://www.nielit.gov.in/). So, am not an IT professional with any sort of academic background in Computer Science.
-
-I was fascinated by computer science in my childhood and when I got introduced to FOSS my fascination turned into my hobby and I have no plans to look back now. This is the same reason why I got this opportunity to introduce myself with you guys here through this nice platform.
+I completed my graduation in Biological Science (B.Sc) in the year 2015 and had a professional graduate degree in Education (B.Ed) in the year 2019. Currently, I am pursuing my post-graduation degree in Chemistry (M.Sc). I also have a foundation level diploma in Computer Applications ‘O’ Level by  [NIELIT](http://www.nielit.gov.in/).
 
 [Know further about me here](https://imakefoss.org/curators/keshavbhatt/)  
 </details>
