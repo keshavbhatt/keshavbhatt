@@ -3,9 +3,10 @@ I'm Keshav Bhatt an independent, Open-source application developer from the nort
 My main focus since introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade in the year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat. 
 
 Most of my work can be found on(not limited to) these locations:
-[Github](https://github.com/keshavbhatt): Here I host, 
-[Snap Store](https://snapcraft.io/search?q=keshavnrj): Store enabling centrelized Linux Application discovery & distribution
-[Ktechpit](http://ktechpit.com): Website I use to publish  
+
+- [Github](https://github.com/keshavbhatt): Here I host most (not all) of my opensource projects 
+- [Snap Store](https://snapcraft.io/search?q=keshavnrj): Publish application that I develop for Linux Desktop
+- [Ktechpit](http://ktechpit.com): Website I use to publish work that I am doing
 
 Currently, I work at [@Zextras](https://github.com/Zextras) as Software Developer. Zextras is known for providing Private, Secure E-mail and Collaboration suite to the world and is commited to provide its users the freedom and ownership of their data that they deserve in corporate communication.
 
