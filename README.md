@@ -1,8 +1,15 @@
-<img src="images/svg/header_en.svg"></img>
+I'm Keshav Bhatt an independent, Open-source application developer from the northern region of India.
 
- My name is Keshav Bhatt. I am a independent, Free, Open-source application developer from the northern region of India.
+My main focus since introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade in the year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat. 
 
-My main focus since I was introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade in the year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat.
+Most of my work can be found on(not limited to) these locations:
+[Github](https://github.com/keshavbhatt): Here I host, 
+[Snap Store](https://snapcraft.io/search?q=keshavnrj): Store enabling centrelized Linux Application discovery & distribution
+[Ktechpit](http://ktechpit.com): Website I use to publish  
+
+Currently, I work at [@Zextras](https://github.com/Zextras) as Software Developer. Zextras is known for providing Private, Secure E-mail and Collaboration suite to the world and is commited to provide its users the freedom and ownership of their data that they deserve in corporate communication.
+
+Explore more at: https://www.zextras.com/
 
 <details>
 <summary>
