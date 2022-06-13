@@ -1,6 +1,6 @@
 I'm Keshav Bhatt an independent, Open-source application developer from the northern region of India.
 
-My main focus since introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade in the year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat. 
+My main focus since introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade since year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat. 
 
 Most of my work can be found on(not limited to) these locations:
 
@@ -25,13 +25,14 @@ I completed my graduation in Biological Science (B.Sc) in the year 2015 and had 
 ## :loop: Get in Loop
 
  - [Email me](mailto:keshavnrj@gmail.com)
- - [DM on Twitter](https://twitter.com/keshavmail68)
  - [Whatsapp](https://wa.me/917906565945?text=Hi%2C+reached+from+your+github+profile)
  - [Telegram](https://t.me/keshavmail68)
  
  ## :moneybag: Make me rich
  
+ - [Github sponser](https://github.com/sponsors/keshavbhatt)
  - [PayPal](https://paypal.me/keshavnrj)
+ - [OpenCollective](https://opencollective.com/keshav-bhatt)
  - [Support by purchasing licence for few of my paid Apps](https://snapcraft.io/search?q=keshavnrj)
  
  > Thanks, If you ever donated me. :smiley:
