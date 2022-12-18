@@ -5,7 +5,7 @@ My main focus since introduced to FOSS is on developing applications targeting L
 Most of my work can be found on(not limited to) these locations:
 
 - [Github](https://github.com/keshavbhatt): Here I host most (not all) of my opensource projects 
-- [Snap Store](https://snapcraft.io/search?q=keshavnrj): Publish application that I develop for Linux Desktop
+- [Snap Store](https://snapcraft.io/publisher/keshavnrj): Publish application that I develop for Linux Desktop
 - [Ktechpit](http://ktechpit.com): Website I use to publish work that I am doing
 
 Currently, I work at [@Zextras](https://github.com/Zextras) as Software Developer. Zextras is known for providing Private, Secure E-mail and Collaboration suite to the world and is commited to provide its users the freedom and ownership of their data that they deserve in corporate communication.
