@@ -40,8 +40,8 @@ I completed my graduation in Biological Science (B.Sc) in the year 2015 and had 
  
 ## :bar_chart: Some stats of my profile
 
-[![Keshav's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=keshavbhatt)
