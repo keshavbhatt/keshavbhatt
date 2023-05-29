@@ -6,7 +6,8 @@ Most of my work can be found on(not limited to) these locations:
 
 - [Github](https://github.com/keshavbhatt): Here I host most (not all) of my opensource projects 
 - [Snap Store](https://snapcraft.io/publisher/keshavnrj): Publish application that I develop for Linux Desktop
-- [Ktechpit](http://ktechpit.com): Website I use to publish work that I am doing
+- [Flathub](https://flathub.org/apps/collection/developer/Keshav%20Bhatt/1): Publish application that I develop for Linux Desktop
+- [Ktechpit](http://ktechpit.com): Website I use to publish work that I am doing and about other random stuff
 
 Currently, I work at [@Zextras](https://github.com/Zextras) as Software Developer. Zextras is known for providing Private, Secure E-mail and Collaboration suite to the world and is commited to provide its users the freedom and ownership of their data that they deserve in corporate communication.
 
