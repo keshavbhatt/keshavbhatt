@@ -26,11 +26,8 @@ I completed my graduation in Biological Science (B.Sc) in the year 2015 and had 
 ## :loop: Get in Loop
 
  - [Email me](mailto:keshavnrj@gmail.com)
- - [Whatsapp](https://wa.me/917906565945?text=Hi%2C+reached+from+your+github+profile)
- - [Telegram](https://t.me/keshavmail68)
- - [LinkedIn](https://linkedin.com/in/keshavnrj/)
- 
- ## :moneybag: Make me rich
+
+## :moneybag: Make me rich
  
  - [Github sponser](https://github.com/sponsors/keshavbhatt)
  - [PayPal](https://paypal.me/keshavnrj)
