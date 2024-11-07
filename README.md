@@ -31,7 +31,7 @@ I completed my graduation in Biological Science (B.Sc) in the year 2015 and had 
  
  - [Github sponser](https://github.com/sponsors/keshavbhatt)
  - [PayPal](https://paypal.me/keshavnrj)
- - [OpenCollective](https://opencollective.com/keshav-bhatt)
+ - [BuyMeACoffee](https://buymeacoffee.com/keshavbhatt)
  - [Support by purchasing licence for few of my paid Apps](https://snapcraft.io/search?q=keshavnrj)
  
  > Thanks, If you ever donated me. :smiley:
