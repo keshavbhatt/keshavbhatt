@@ -1,43 +1,58 @@
-I'm Keshav Bhatt an independent, Open-source application developer from the northern region of India.
+# Hi, I'm Keshav Bhatt
 
-My main focus since introduced to FOSS is on developing applications targeting Linux Desktop Operating systems. I have been using FOSS since I was in 10th grade since year 2010, the first OS which attracted my focus toward application development was Ubuntu 10.10 Maverick Meerkat. 
+I'm a passionate open-source application developer focused on crafting polished and practical apps for the **Linux desktop ecosystem**.
 
-Most of my work can be found on(not limited to) these locations:
+---
 
-- [Github](https://github.com/keshavbhatt): Here I host most (not all) of my opensource projects 
-- [Snap Store](https://snapcraft.io/publisher/keshavnrj): Publish application that I develop for Linux Desktop
-- [Flathub](https://flathub.org/apps/collection/developer/Keshav%20Bhatt/1): Publish application that I develop for Linux Desktop
-- [Ktechpit](http://ktechpit.com): Website I use to publish work that I am doing and about other random stuff
+## 🛠️ What I Build
 
-Currently, I work at [@Zextras](https://github.com/Zextras) as Software Developer. Zextras is known for providing Private, Secure E-mail and Collaboration suite to the world and is commited to provide its users the freedom and ownership of their data that they deserve in corporate communication.
+I specialize in developing robust, user-centric applications for the **Linux desktop environment** and contribute to **enterprise-grade solutions**. My work encompasses a range of technologies and platforms:
 
-Explore more at: https://www.zextras.com/
+- **Linux Desktop Applications**: Crafting intuitive tools that enhance user experience.
+- **Web Technologies**: Building responsive interfaces and integrating APIs.
+- **Backend Development**: Designing scalable services and managing data flow.
+- **DevOps Practices**: Streamlining deployment processes and ensuring system reliability.
 
-<details>
-<summary>
-  Interesting, show me more
-</summary>
+You can explore my projects here:
 
-I completed my graduation in Biological Science (B.Sc) in the year 2015 and had a professional graduate degree in Education (B.Ed) in the year 2019. Currently, I am pursuing my post-graduation degree in Chemistry (M.Sc). I also have a foundation level diploma in Computer Applications ‘O’ Level by  [NIELIT](http://www.nielit.gov.in/).
+- **GitHub** – [@keshavbhatt](https://github.com/keshavbhatt): Source for most of my open-source projects.
+- **Snap Store** – [snapcraft.io/publisher/keshavnrj](https://snapcraft.io/publisher/keshavnrj)
+- **Flathub** – [flathub.org/developer/Keshav%20Bhatt](https://flathub.org/apps/collection/developer/Keshav%20Bhatt/1)
+- **Blog** – [ktechpit.com](http://ktechpit.com): Personal blog & dev logs.
 
-[Know further about me here](https://imakefoss.org/curators/keshavbhatt/)  
-</details>
+---
 
-## :loop: Get in Loop
+## 💼 Currently at Zextras
 
- - [Email me](mailto:keshavnrj@gmail.com)
+I work as a **Software Developer** at Zextras, where we build **private, secure email and collaboration tools** to give organizations full control over their data.
 
-## :moneybag: Make me rich
- 
- - [Github sponser](https://github.com/sponsors/keshavbhatt)
- - [PayPal](https://paypal.me/keshavnrj)
- - [BuyMeACoffee](https://buymeacoffee.com/keshavbhatt)
- - [Support by purchasing licence for few of my paid Apps](https://snapcraft.io/search?q=keshavnrj)
- 
- > Thanks, If you ever donated me. :smiley:
- 
-## :bar_chart: Some stats of my profile
+Explore more at: [zextras.com](https://www.zextras.com/)
 
-[![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+## 📬 Get in Touch
+
+- Email: [keshavnrj@gmail.com](mailto:keshavnrj@gmail.com)
+
+---
+
+## 💖 Support My Work
+
+If you like what I do, consider supporting me:
+
+- [GitHub Sponsors](https://github.com/sponsors/keshavbhatt)
+- [PayPal](https://paypal.me/keshavnrj)
+- [BuyMeACoffee](https://buymeacoffee.com/keshavbhatt)
+- [Buy licenses for paid apps](https://snapcraft.io/search?q=keshavnrj)
+
+> Thank you to everyone who has supported me!
+
+---
+
+## 📊 GitHub Stats
+
+[![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=keshavbhatt&theme=merko)
