@@ -45,11 +45,3 @@ If you like what I do, consider supporting me:
 - [Buy licenses for paid apps](https://snapcraft.io/search?q=keshavnrj)
 
 > Thank you to everyone who has supported me!
-
----
-
-## 📊 GitHub Stats
-
-[![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=keshavbhatt&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavbhatt&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
