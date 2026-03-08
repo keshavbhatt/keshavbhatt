@@ -42,7 +42,6 @@ If you like what I do, consider supporting me:
 
 - [GitHub Sponsors](https://github.com/sponsors/keshavbhatt)
 - [PayPal](https://paypal.me/keshavnrj)
-- [BuyMeACoffee](https://buymeacoffee.com/keshavbhatt)
 - [Buy licenses for paid apps](https://snapcraft.io/search?q=keshavnrj)
 
 > Thank you to everyone who has supported me!
