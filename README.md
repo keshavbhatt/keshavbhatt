@@ -18,7 +18,8 @@ You can explore my projects here:
 - **GitHub** – [@keshavbhatt](https://github.com/keshavbhatt): Source for most of my open-source projects.
 - **Snap Store** – [snapcraft.io/publisher/keshavnrj](https://snapcraft.io/publisher/keshavnrj)
 - **Flathub** – [flathub.org/developer/Keshav%20Bhatt](https://flathub.org/apps/collection/developer/Keshav%20Bhatt/1)
-- **Blog** – [ktechpit.com](http://ktechpit.com): Personal blog & dev logs.
+- **Blog** – [ktechpit.com](https://ktechpit.com): Personal blog & dev logs.
+- **KimiDoc** - [kimidoc.com](https://kimidoc.com): HTML-to-PDF engine for serious document volume.
 
 ---
 
